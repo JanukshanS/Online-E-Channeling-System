@@ -21,7 +21,7 @@ The system is mainly based on OOP concepts using Java and also utilizes the foll
 - Application of Design Patterns
 - Handling Exceptions
 
-No specific framework is employed as the system is entirely custom-built. Security measures have been implemented to ensure the safety of data. 
+No specific framework is employed except Bootstrap as the system is entirely custom-built. Security measures have been implemented to ensure the safety of data. 
 
 
 
